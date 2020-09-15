@@ -1,0 +1,116 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+}
+#cmp{
+    color: black;
+    font-weight: 700;
+}
+#list{
+    margin-left: 20%;
+    margin-top: 20px;
+}
+#b1{
+    
+    
+    width: 150px;
+   
+}
+.back{
+    
+    background-image: linear-gradient(blue,purple);
+    height: 800px;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0%, 100% 82%, 0% 100%);
+}
+.linear{
+    position: absolute;
+    background-image: linear-gradient(blue, violet);
+}
+#p1{
+    background-color: lightgrey;
+    color: purple;
+    width: 90px;
+    border-radius: 50rem;
+    margin-top: 20%;
+    padding: auto;
+    
+}
+#p2{
+    font-size: 200%;
+}
+#frm{
+    width: 90%;
+    height: 400px;
+    margin-top: 20%;
+    border-radius: 20px;
+}
+#frm1{
+    border-radius: 20px;
+    background-color: lightgrey;  
+    font-weight: 600;
+    width: 100%;
+   
+    margin-left: 0px;
+}
+.nme{
+    border-radius: 50rem;
+    margin-top: -10px;
+    width: 150px;
+    border-color: lightgrey;
+}
+#company{
+    
+    height: 200px;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0%, 100% 81%, 0% 100%);
+}
+#company1{
+    margin-left: 60%;
+
+}
+.company2{
+    font-size: 180%;
+    font-weight: bold;
+}
+.cards{
+    height: 1100px;
+    width: 100%;
+    
+    clip-path: polygon(0 20%, 100% 0%, 100% 81%, 0% 100%);
+    
+    background-color: whitesmoke;
+}
+#cards1{
+    
+    margin-top: 250px;
+    background-color: violet;
+    color: purple;
+    width: 85px;
+    border-radius: 50rem;
+    
+    padding: auto;
+}
+#one{
+    background-color:white;
+    height: 300px;
+    width: 100%;
+    box-shadow: 2px 2px 2px 2px lightgray ;
+    
+
+}
+#icons{
+    background-color: violet;
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+}
+#wc{
+    margin-top: -330px;
+    
+}
+    
+#txt{
+    font-size: 150%;
+    font-weight: 600;
+}
